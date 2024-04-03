@@ -14,10 +14,10 @@ I've started by learning the basics of cybersecurity. Now, I'm getting practical
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Malware Analysis Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">identify and Remediate Vulnerabilites</a>|
+| Security Automation with Shuffle SOAR         | IDS/Zeek network monitoring|
+| Incident Response Planning and Execution      | soar implementation|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
